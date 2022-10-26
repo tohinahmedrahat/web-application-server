@@ -1,0 +1,32 @@
+[
+    {
+      "id": "01",
+      "name": "Html",
+      "img":"https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png"
+    },
+    {
+      "id": "02",
+      "name": "Css",
+      "img":"https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png"
+    },
+    {
+      "id": "03",
+      "name": "Javascript",
+      "img":"https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png"
+    },
+    {
+      "id": "04",
+      "name": "React",
+      "img":"https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"
+    },
+    {
+      "id": "05",
+      "name": "React Native",
+      "img":"https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"
+    },
+    {
+      "id": "06",
+      "name": "Python",
+      "img":"https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/Python_logo-512.png"
+    }
+  ]
